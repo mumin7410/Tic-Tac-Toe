@@ -1,1 +1,2 @@
 def mumin ():
+    print(game)
